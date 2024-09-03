@@ -1,0 +1,19 @@
+.pokemon-item {
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #f7f7f7;
+    transition: background-color 0.3s;
+    text-decoration: none;
+    color: inherit;
+}
+
+.pokemon-item:hover {
+    background-color: #ececec;
+}
+
+.pokemon-item img {
+    width: 100px;
+    height: 110px;
+    margin-bottom: 10px;
+}

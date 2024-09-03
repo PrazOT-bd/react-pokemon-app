@@ -1,0 +1,28 @@
+.section.stats {
+    padding: 20px;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    margin: 20px 0;
+}
+
+.stats h3 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.stats ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.stats li {
+    font-size: 1.1em;
+    margin-bottom: 5px;
+}
+
+.stats li strong {
+    display: inline-block;
+    width: 100px;
+    text-transform: capitalize;
+}
