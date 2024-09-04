@@ -1,4 +1,3 @@
-// src/components/Thumbnail.js
 import React from 'react';
 import './Thumbnail.css';
 
